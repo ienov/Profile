@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Daniil
 ![Profile views](https://gpvc.arturio.dev/ienov)  
-Skills: java / c++ / c# 
+Skills: C# / c++ / java
 
 - 🔭 I’m currently working on bot for Minecraft 
 
