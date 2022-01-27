@@ -2,7 +2,6 @@
 ![Profile views](https://gpvc.arturio.dev/ienov)  
 Skills: C#(main) / c++ / java
 
-- 🔭 I’m currently working on bot for Minecraft 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='0'>](https://github.com/ienov)  
