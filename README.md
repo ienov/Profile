@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Daniil
 ![Profile views](https://gpvc.arturio.dev/ienov)  
-Skills: C#(main) / c++ / java
+Skills: C#(main)
 
 
 
